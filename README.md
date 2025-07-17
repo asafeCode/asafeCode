@@ -17,7 +17,6 @@ const matheus = {
   tecnologias: [".NET", "C#", "SQL Server", "MySQL", "Azure", "Docker", "AWS", "CI/CD", "Mensagerias", "Testes de Integração"]
 }
 ```
-Tenho experiência no desenvolvimento de sistemas robustos e escaláveis, sempre buscando entregar soluções de alto desempenho. Minha paixão é criar APIs eficientes e integrações entre sistemas que atendem a necessidades específicas de negócios.
 
 🚀 Tecnologias e Ferramentas
 ---
