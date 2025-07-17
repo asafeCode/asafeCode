@@ -8,7 +8,7 @@
 
 🚨 Sobre Mim
 ---
-```
+```javascript
 const matheus = {
   nome: "Matheus Asafe",
   idade: 20,
