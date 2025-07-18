@@ -12,7 +12,7 @@
 const matheus = {
   nome: "Matheus Asafe",
   idade: 20,
-  exp: ["Desenvolvedor Backendr", "Professor de Programação e Robótica"],
+  exp: ["Desenvolvedor Backend", "Professor de Programação e Robótica"],
   formacao: "Analise e Desenvolvimento de Sistemas pela Estácio",
   tecnologias: [".NET", "C#", "SQL Server", "MySQL", "Azure", "Docker", "AWS", "CI/CD", "Mensagerias", "Testes de Integração"]
 }
