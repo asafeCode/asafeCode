@@ -1,8 +1,8 @@
-<div align='center'> <h1># 👨‍💻 Olá, sou Matheus Asafe! 🚀</h1>
+<div align='center'> <h1> 👨‍💻 Olá, sou Matheus Asafe! 🚀</h1>
 
-> Desenvolvedor Backend 
+## Desenvolvedor Backend 
 
->focado em soluções escaláveis e APIs de alto desempenho. 
+> Focado em soluções escaláveis e APIs de alto desempenho. 
 
 
 
@@ -36,9 +36,7 @@ const matheus = {
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asafeCode&bg_color=000&border_color=ADD8E6&title_color=ADD8E6&text_color=FFF&layout=compact)
-
-![Seu Nome no GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=asafeCode&bg_color=000&border_color=ADD8E6&title_color=ADD8E6&text_color=FFF&layout=compactshow_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asafeCode&bg_color=000&border_color=ADD8E6&title_color=ADD8E6&text_color=FFF&layout=compact) 
 
 
 
