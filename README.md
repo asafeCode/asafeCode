@@ -1,13 +1,16 @@
 <div align='center'> <h1># 👨‍💻 Olá, sou Matheus Asafe! 🚀</h1>
 
-## Desenvolvedor Backend focado em soluções escaláveis e APIs de alto desempenho. 
+> Desenvolvedor Backend 
 
----
+>focado em soluções escaláveis e APIs de alto desempenho. 
+
+
+
+
 </div>
 
 
-🚨 Sobre Mim
----
+## 🚨 Sobre Mim
 ```javascript
 const matheus = {
   nome: "Matheus Asafe",
@@ -18,7 +21,7 @@ const matheus = {
 }
 ```
 
-🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 ---
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -31,19 +34,25 @@ const matheus = {
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
 
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asafeCode&bg_color=000&border_color=ADD8E6&title_color=ADD8E6&text_color=FFF&layout=compact)
+
+![Seu Nome no GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=asafeCode&bg_color=000&border_color=ADD8E6&title_color=ADD8E6&text_color=FFF&layout=compactshow_icons=true&theme=default)
 
 
-🚀 Projetos
----
-Este repositório serve para você explorar todos os meus projetos disponíveis no GitHub. 
+
+## 🚀 Projetos
+>Este repositório serve para você explorar todos os meus projetos disponíveis no GitHub. 
 
 Acesse todos os meus repositórios diretamente pelo link abaixo:
 
 🔗 [GitHub: github.com/asafeCode](https://github.com/asafeCode)
 
-📫 Como me encontrar
----
+## 📫 Como me encontrar
+
  - 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-asafe)
  - 📧 E-mail: matt.asafe@gmail.com
+
 
 
