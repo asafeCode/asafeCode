@@ -45,7 +45,7 @@ const matheus = {
 
 Acesse todos os meus repositórios diretamente pelo link abaixo:
 
-🔗 [GitHub: github.com/asafeCode](https://github.com/asafeCode)
+🔗 [GitHub: github.com/asafeCode]([https://github.com/asafeCode](https://github.com/asafeCode?tab=repositories))
 
 ## 📫 Como me encontrar
 
